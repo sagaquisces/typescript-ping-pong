@@ -1,0 +1,22 @@
+{
+  "name": "typescript-ping-pong",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Michael Dunlap <michaeldunlap@earthlink.net>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/sagaquisces/typescript-ping-pong",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.18.1"
+  }
+}
